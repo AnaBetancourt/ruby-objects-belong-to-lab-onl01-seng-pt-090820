@@ -1,6 +1,6 @@
 class Song 
   attr_accessor :title, :artist 
   
-  @artist = Artist.new
+  # @artist = Artist.new
   
 end
